@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Deutsch" />
+	</tags>
+	<strings>
+		<string id="3hLhzZ9nUCmZE" text="Warten Sie hier, bis Sie vollständig ausgeruht sind" />
+		<string id="HRC4ChHx1QVOi" text="Sie warten in {CURRENT_SETTLEMENT}, bis Sie vollständig ausgeruht sind." />
+		<string id="CJEdNeG5TLNdk" text="Sie sind vollkommen ausgeruht!" />
+	</strings>
+</base>

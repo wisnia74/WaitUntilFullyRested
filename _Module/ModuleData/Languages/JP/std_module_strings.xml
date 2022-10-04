@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="日本語" />
+	</tags>
+	<strings>
+		<string id="3hLhzZ9nUCmZE" text="完全に休むまでここで待って" />
+		<string id="HRC4ChHx1QVOi" text="完全に休むまで {CURRENT_SETTLEMENT} で待機しています." />
+		<string id="CJEdNeG5TLNdk" text="あなたは完全に休息しています！" />
+	</strings>
+</base>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Polski" />
+	</tags>
+	<strings>
+		<string id="3hLhzZ9nUCmZE" text="Poczekaj dopóki nie odzyskasz pełni sił" />
+		<string id="HRC4ChHx1QVOi" text="Czekasz w {CURRENT_SETTLEMENT}{.l} dopóki nie odzyskasz pełni sił." />
+		<string id="CJEdNeG5TLNdk" text="Odzyskałeś pełnię sił!" />
+	</strings>
+</base>

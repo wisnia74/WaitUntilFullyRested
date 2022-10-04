@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="한국어" />
+	</tags>
+	<strings>
+		<string id="3hLhzZ9nUCmZE" text="완전히 쉴 때까지 여기서 기다려" />
+		<string id="HRC4ChHx1QVOi" text="완전히 쉴 때까지 {CURRENT_SETTLEMENT}에서 기다리고 있습니다." />
+		<string id="CJEdNeG5TLNdk" text="당신은 완전히 쉬었습니다!" />
+	</strings>
+</base>

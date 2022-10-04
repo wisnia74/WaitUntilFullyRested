@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Français" />
+	</tags>
+	<strings>
+		<string id="3hLhzZ9nUCmZE" text="Attendez ici jusqu'à ce que vous soyez complètement reposé" />
+		<string id="HRC4ChHx1QVOi" text="Vous attendez dans {?settlementNeedsArticle(CURRENT_SETTLEMENT)}{.l}{?}{\?}{CURRENT_SETTLEMENT} jusqu'à ce que vous soyez complètement reposé." />
+		<string id="CJEdNeG5TLNdk" text="Vous êtes complètement reposé!" />
+	</strings>
+</base>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Русский" />
+	</tags>
+	<strings>
+		<string id="3hLhzZ9nUCmZE" text="Подожди здесь, пока полностью не отдохнешь" />
+		<string id="HRC4ChHx1QVOi" text="Вы ждете в {CURRENT_SETTLEMENT}{.l}, пока полностью не отдохнете." />
+		<string id="CJEdNeG5TLNdk" text="Вы полностью отдохнули!" />
+	</strings>
+</base>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<strings>
+		<string id="3hLhzZ9nUCmZE" text="Wait here until you are fully rested" />
+		<string id="HRC4ChHx1QVOi" text="You are waiting in {CURRENT_SETTLEMENT} until you are fully rested." />
+		<string id="CJEdNeG5TLNdk" text="You are fully rested!" />
+	</strings>
+</base>

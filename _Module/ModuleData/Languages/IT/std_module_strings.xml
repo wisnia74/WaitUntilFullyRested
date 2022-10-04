@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Italiano" />
+	</tags>
+	<strings>
+		<string id="3hLhzZ9nUCmZE" text="Aspetta qui finché non sei completamente riposato" />
+		<string id="HRC4ChHx1QVOi" text="Stai aspettando presso {.l}{CURRENT_SETTLEMENT} finché non sei completamente riposato." />
+		<string id="CJEdNeG5TLNdk" text="Sei completamente riposato!" />
+	</strings>
+</base>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+	<tags>
+		<tag language="Español (LA)" />
+	</tags>
+	<strings>
+		<string id="3hLhzZ9nUCmZE" text="Espera aquí hasta que estés completamente descansado" />
+		<string id="HRC4ChHx1QVOi" text="Esperas en {.l}{CURRENT_SETTLEMENT} hasta que estés completamente descansado." />
+		<string id="CJEdNeG5TLNdk" text="¡Estás completamente descansado!" />
+	</strings>
+</base>
