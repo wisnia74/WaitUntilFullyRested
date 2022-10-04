@@ -8,11 +8,9 @@ I was getting slightly frustrated anytime I wanted the "wait" sequence in settle
 
 ***Need to smith a lot and can't be bothered with "guessing" at what point your character regenerated back to 100% stamina? This mod is for you!***
 
-The mod is fully localised, however I achieved that using Google Translate so the results might not be good in some cases.
+The mod is fully localised, however I achieved that using Google Translate so the results might not be good in some cases. Since it's really small and simple, it has no dependencies. There's probably a ton of stamina mods out there, but I really wanted to just have a QoL feature and not something that would alter the gameplay in any way.
 
-Since it's really small and simple, it has no dependencies.
-
-There's probably a ton of stamina mods out there, but I really wanted to just have a QoL feature and not something that would alter the gameplay in any way.
+The mod can be found on [NexusMods](https://www.nexusmods.com/mountandblade2bannerlord/mods/4515).
 
 ## How it works
 It adds a simple button "Wait until you are fully rested" to towns and castles (not to villages because waiting in a village does not regenerate stamina anyway).
