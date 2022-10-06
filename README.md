@@ -27,11 +27,11 @@ Just [download the mod from NexusMods](https://www.nexusmods.com/mountandblade2b
 For steam users that could be for example: `C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules`.
 
 ## Compatibility
-Written with Bannerlord `v1.7.2` in mind, mid-work game got updated to `e1.8.1.1942` so I tested with it too and encountered no issues.
+Compatible with Bannerlord:
 
-The mod is compatible with both those versions - I didn't test with pre `v1.7.2` though so keep that in mind.
-
-The mod does not modify any major campaign behaviors or whatnot, it only edits 1 default game menu and registers 2 new ones. As long as core APIs, that are responsible for that, didn't change, the mod should work with any version of Bannerlord.
+- 1.8.0
+- 1.8.1
+- 1.9.0
 
 ## Credits
 Shout out to [LesserScholar﻿](https://www.youtube.com/c/LesserScholar) - his "Artisan Workshop Mod Tutorial" series on YT helped me a ton with going about writing my own little mod.
