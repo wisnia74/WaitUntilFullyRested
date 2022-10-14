@@ -35,3 +35,4 @@ Compatible with Bannerlord:
 
 ## Credits
 Shout out to [LesserScholar﻿](https://www.youtube.com/c/LesserScholar) - his "Artisan Workshop Mod Tutorial" series on YT helped me a ton with going about writing my own little mod.
+Make sure to check out his [Nexus profile](https://www.nexusmods.com/mountandblade2bannerlord/users/138714188) too!
