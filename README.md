@@ -26,6 +26,8 @@ Just [download the mod from NexusMods](https://www.nexusmods.com/mountandblade2b
 
 For steam users that could be for example: `C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules`.
 
+The mod is also available on [Steam workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2875235556).
+
 ## Compatibility
 Compatible with Bannerlord:
 
