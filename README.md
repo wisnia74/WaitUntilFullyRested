@@ -22,11 +22,11 @@ It will trigger a regular wait menu with one twist - once you reach 100% stamina
 This way, you wait exactly as long as it takes to regenarate stamina back to 100%. Isn't that beautiful?
 
 ## Installation
-Just [download the mod from NexusMods](https://www.nexusmods.com/mountandblade2bannerlord/mods/4515?tab=files) and extract the 7z archive into Modules folder inside you main game data directory.
+Just [download the latest release](https://github.com/wisnia74/WaitUntilFullyRested/releases) and extract the 7z archive into Modules folder inside your main game data directory.
 
 For steam users that could be for example: `C:\Program Files\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules`.
 
-The mod is also available on [Steam workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2875235556).
+The mod is also available on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2875235556) and [Nexus Mods](https://www.nexusmods.com/mountandblade2bannerlord/mods/4515).
 
 ## Compatibility
 Compatible with Bannerlord:
