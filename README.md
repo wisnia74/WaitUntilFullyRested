@@ -31,9 +31,10 @@ The mod is also available on [Steam Workshop](https://steamcommunity.com/sharedf
 ## Compatibility
 Compatible with Bannerlord:
 
-- 1.8.0
-- 1.8.1
-- 1.9.0
+- e1.8.1 (beta)
+- e1.9.0 (beta)
+- v1.0.0 (full release)
+- v1.0.1 (full relase)
 
 ## Credits
 Shout out to [LesserScholar﻿](https://www.youtube.com/c/LesserScholar) - his "Artisan Workshop Mod Tutorial" series on YT helped me a ton with going about writing my own little mod.
